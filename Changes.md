@@ -11,6 +11,6 @@
 - New Sound for scallop shot and hit
 - new scorcher/dante heatwave sound
 - new Impaler shot
-- eq'd impaler hit
+- Teaked impaler hit
 - new sound for both bandit shot and hit
-- EQ's rogue shot and hit
+- Tweaked rogue shot and hit
