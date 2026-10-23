@@ -1,0 +1,16 @@
+# Changes
+- New sounds for glaive
+- New sound for gremlin
+- Tweaked coursair shot and hit
+- Tweaked cutter shot and hit
+- Separated Merlin + dante and revanent missle hit
+	- Tweaked the revanent missile hit
+- New sound for merlin/dante missile hit
+- New sound for merlin/dante/Emissary fire
+- Tweaked the Emissary missle hit
+- New Sound for scallop shot and hit
+- new scorcher/dante heatwave sound
+- new Impaler shot
+- eq'd impaler hit
+- new sound for both bandit shot and hit
+- EQ's rogue shot and hit
