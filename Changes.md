@@ -17,3 +17,5 @@
 - tweaked stardust hit and new shot
 - New bouy shot and hit
 - New duck shot and tweaked hit
+- New bulkhead hit and tweaked shot
+- New redback shot

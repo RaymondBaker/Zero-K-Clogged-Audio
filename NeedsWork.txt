@@ -1,1 +1,6 @@
-bulkhead hit 
+emp turret shot
+flea shot
+ogre hit
+Black hole
+dirtbag destroy
+jumpbot self shooting missile shot sound
