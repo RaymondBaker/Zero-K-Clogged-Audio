@@ -14,3 +14,6 @@
 - eq'd impaler hit
 - new sound for both bandit shot and hit
 - EQ's rogue shot and hit
+- tweaked stardust hit and new shot
+- New bouy shot and hit
+- New duck shot and tweaked hit
