@@ -1,6 +1,8 @@
-emp turret shot
-flea shot
 ogre hit
 Black hole
 dirtbag destroy
 jumpbot self shooting missile shot sound
+firewalker shot sound
+jack hit
+Scythe hit
+recluse shot and hit

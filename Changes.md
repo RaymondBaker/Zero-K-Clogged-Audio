@@ -16,6 +16,10 @@
 - Tweaked rogue shot and hit
 - tweaked stardust hit and new shot
 - New bouy shot and hit
+	- Separated flea shot and bouy hit
 - New duck shot and tweaked hit
 - New bulkhead hit and tweaked shot
 - New redback shot
+- New faraday/venom shot
+- New Flea Shot
+- New Placeholder Hit and shot
